@@ -1,4 +1,4 @@
-
+Enhance AnyDesk for macOS with AnyDesk for macOS new Extension: performance-optimization & multi-device-support, the #1 extension. Includes performance-optimization and
 
 
 
